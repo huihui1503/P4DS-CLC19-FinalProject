@@ -3,4 +3,4 @@
 | MSSV  | Họ tên | Account github
 | ------------- | ------------- | ------------- |
 | 18127109 | Thái Hoàng Huy | https://github.com/huihui1503 |
-| 18127111 | Trần Quốc Huy | |
+| 18127111 | Trần Quốc Huy | https://github.com/QuocHuyy |
